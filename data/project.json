@@ -1,21 +1,27 @@
 {
-  "users": [],
   "publish": {
-    "publishPagesApp": false,
-    "publishSHA": "",
-    "publishISODate": ""
+    "publish_pages_app": true,
+    "publish_sha": "",
+    "publish_iso_date": ""
   },
+  "users": [],
   "project": {
-    "title": "Zora Neale Hurston’s Works Progress Administration Recordings",
-    "description": "",
-    "language": "",
-    "slug": "",
+    "github_org": "JMU-AudiAnnotate",
+    "is_private": false,
+    "title": "Free Read, 1994 October 1 [FF0043-2]",
+    "description": "Poetry Free Read at the 1994 Furious Flower Conference. The Free Read was held at Grafton-Stovall Theatre, James Madison University on Saturday, October 1, 1994. This footage was originally recorded on a MII videocassette.",
+    "language": "en",
+    "slug": "FF0043-2",
+    "creator": "JMU-AudiAnnotate",
     "authors": "",
-    "mediaPlayer": "universal",
-    "autoPopulateHomePage": "true",
-    "additionalUsers": [],
-    "": {},
-    "createdAt": "",
-    "updatedAt": ""
+    "media_player": "avannotate",
+    "auto_populate_home_page": false,
+    "additional_users": [],
+    "tags": {
+      "tagGroups": [],
+      "tags": []
+    },
+    "created_at": "2025-06-18T14:04:31.486Z",
+    "updated_at": "2025-06-18T14:04:31.486Z"
   }
 }
