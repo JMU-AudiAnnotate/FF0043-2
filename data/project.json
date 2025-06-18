@@ -4,7 +4,13 @@
     "publish_sha": "",
     "publish_iso_date": ""
   },
-  "users": [],
+  "users": [
+    {
+      "login_name": "JMU-AudiAnnotate",
+      "avatar_url": "https://avatars.githubusercontent.com/u/92408618?v=4",
+      "admin": true
+    }
+  ],
   "project": {
     "github_org": "JMU-AudiAnnotate",
     "is_private": false,
@@ -22,6 +28,27 @@
       "tags": []
     },
     "created_at": "2025-06-18T14:04:31.486Z",
-    "updated_at": "2025-06-18T14:04:31.486Z"
-  }
+    "updated_at": "2025-06-18T14:04:31.486Z",
+    "generate_pages_site": true
+  },
+  "annotations": {},
+  "events": {},
+  "eventOrder": [],
+  "pages": {
+    "996620a6-2c31-4358-ad3f-f9057799b6ed": {
+      "content": [],
+      "created_at": "2025-06-18T14:04:31.510Z",
+      "created_by": "JMU-AudiAnnotate",
+      "title": "Free Read, 1994 October 1 [FF0043-2]",
+      "updated_at": "2025-06-18T14:04:31.510Z",
+      "updated_by": "JMU-AudiAnnotate",
+      "autogenerate": {
+        "enabled": false,
+        "type": "home"
+      }
+    }
+  },
+  "pageOrder": [
+    "996620a6-2c31-4358-ad3f-f9057799b6ed"
+  ]
 }
