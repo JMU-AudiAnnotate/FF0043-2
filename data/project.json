@@ -24,11 +24,113 @@
     "auto_populate_home_page": false,
     "additional_users": [],
     "tags": {
-      "tagGroups": [],
-      "tags": []
+      "tagGroups": [
+        {
+          "category": "Speaker",
+          "color": "#ADFFD9"
+        },
+        {
+          "category": "Audience",
+          "color": "#ADFEFF"
+        },
+        {
+          "category": "Structure",
+          "color": "#99E6FF"
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Unknown speaker 1",
+          "category": "Speaker"
+        },
+        {
+          "tag": "Wendell Otley",
+          "category": "Speaker"
+        },
+        {
+          "tag": "Unknown speaker 2",
+          "category": "Speaker"
+        },
+        {
+          "tag": "Yafet Brinson",
+          "category": "Speaker"
+        },
+        {
+          "tag": "D. J. Renegade",
+          "category": "Speaker"
+        },
+        {
+          "tag": "Ta-Nehisi Coates",
+          "category": "Speaker"
+        },
+        {
+          "tag": "Dorothy Marie Rice",
+          "category": "Speaker"
+        },
+        {
+          "tag": "Michael L. L. Collins",
+          "category": "Speaker"
+        },
+        {
+          "tag": "Toni Blackman",
+          "category": "Speaker"
+        },
+        {
+          "tag": "Jonathan Gray",
+          "category": "Speaker"
+        },
+        {
+          "tag": "Kwame Alexander",
+          "category": "Speaker"
+        },
+        {
+          "tag": "Nehassaiu deGannes",
+          "category": "Speaker"
+        },
+        {
+          "tag": "Erica Jackson",
+          "category": "Speaker"
+        },
+        {
+          "tag": "Tyepha Walden",
+          "category": "Speaker"
+        },
+        {
+          "tag": "Nikea Green",
+          "category": "Speaker"
+        },
+        {
+          "tag": "Patricia Johnson",
+          "category": "Speaker"
+        },
+        {
+          "tag": "Monifa A. Love",
+          "category": "Speaker"
+        },
+        {
+          "tag": "Tim Wells",
+          "category": "Speaker"
+        },
+        {
+          "tag": "Applause",
+          "category": "Audience"
+        },
+        {
+          "tag": "Speaker Introduction",
+          "category": "Structure"
+        },
+        {
+          "tag": "Annoucement",
+          "category": "Structure"
+        },
+        {
+          "tag": "Poetry Reading",
+          "category": "Structure"
+        }
+      ]
     },
     "created_at": "2025-06-18T14:04:31.486Z",
-    "updated_at": "2025-06-18T14:06:23.041Z",
+    "updated_at": "2025-06-18T14:07:04.075Z",
     "generate_pages_site": true
   },
   "annotations": {},
